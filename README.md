@@ -41,7 +41,7 @@
 
 
 **Side Project**
-  1. 滑鼠 點
+  1. [點兩下滑鼠畫出傾斜 45 度半個實心橢圓](https://github.com/49831117/test-opencv/blob/main/test.py)
   2. canny 蝴蝶
   3. 抓取輪廓
   4. [人臉辨識](https://github.com/49831117/test-opencv/blob/main/test15.py)

@@ -1,6 +1,6 @@
 # test-opencv
 ## Open CV
-
+- [圖像插值演算法](http://www.1zlab.com/wiki/python-opencv-tutorial/opencv-interpolation-algrithm/)
 - 影像處理
   - [線上資源 Teachable Machine](https://teachablemachine.withgoogle.com/)
   - [Lobe](https://lobe.ai/)

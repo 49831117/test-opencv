@@ -40,9 +40,9 @@
         - 人臉特徵向量值
 
 
-- PS.
+**Side Project**
   1. 滑鼠 點
   2. canny 蝴蝶
   3. 抓取輪廓
-  4. 人臉辨識
+  4. [人臉辨識](https://github.com/49831117/test-opencv/blob/main/test15.py)
  

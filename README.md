@@ -1,10 +1,9 @@
 # test-opencv
 ## Open CV
 
-- 上課講義：https://sites.google.com/mail.cjcu.edu.tw/opencv/
-
-- 網路資源
-  - Teachable Machine：https://teachablemachine.withgoogle.com/
+- 影像處理
+  - [線上資源 Teachable Machine](https://teachablemachine.withgoogle.com/)
+  - [Lobe](https://lobe.ai/)
 
 - 硬體：Coral TPU
 
@@ -34,6 +33,9 @@
 - P.100 金字塔：將圖片融合
   - **[可逆?] 如果已知融合的圖、階數，能否找回原圖**  
 - P.105 輪廓處理(算面積等)
+
+
+- PS.
   1. 滑鼠 點
   2. canny 蝴蝶
   3. 抓取輪廓

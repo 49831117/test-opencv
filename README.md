@@ -16,7 +16,7 @@
 - `pip install matplotlib`
   > 讀取時顏色不正常的原因之一：
   When the image file is read with the OpenCV function imread(), the order of colors is BGR (blue, green, red). On the other hand, in Pillow, the order of colors is assumed to be RGB (red, green, blue).
-  source：https://note.nkmk.me/en/python-opencv-bgr-rgb-cvtcolor/
+[source](https://note.nkmk.me/en/python-opencv-bgr-rgb-cvtcolor/)
   - open cv 中為 BGR
 
 - P.39

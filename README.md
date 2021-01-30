@@ -34,6 +34,9 @@
   - **[可逆?] 如果已知融合的圖、階數，能否找回原圖**  
 - P.105 輪廓處理(算面積等)
 
+- [人臉辨識](https://github.com/davisking/dlib-models)
+  - shape_predictor_68_face_landmarks
+
 
 - PS.
   1. 滑鼠 點

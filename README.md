@@ -32,10 +32,11 @@
   - WSL1 vs WSL2 系統
 - P.100 金字塔：將圖片融合
   - **[可逆?] 如果已知融合的圖、階數，能否找回原圖**  
-- P.105 輪廓處理(算面積等)
+- P.105 輪廓處理（算面積等）
 
 - [人臉辨識](https://github.com/davisking/dlib-models)
   - shape_predictor_68_face_landmarks
+    - 放進相同目錄，為一資料檔
 
 
 - PS.

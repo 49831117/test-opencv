@@ -31,7 +31,7 @@
   - HSL @wiki
   - WSL1 vs WSL2 系統
 - P.100 金字塔：將圖片融合
-  - **[可逆?] 如果已知融合的圖、階數，能否找回原圖**  
+  - **[可逆?] 如果已知融合的圖、階數，能否找回原圖**  Ans: No.
 - P.105 輪廓處理（算面積等）
 
 - [人臉辨識](https://github.com/davisking/dlib-models)
@@ -42,7 +42,7 @@
 
 **Side Project**
   1. [點兩下滑鼠畫出傾斜 45 度半個實心橢圓](https://github.com/49831117/test-opencv/blob/main/test.py)
-  2. canny 蝴蝶
-  3. 抓取輪廓
+  2. [Canny - 蝴蝶](https://github.com/49831117/test-opencv/blob/main/test11.py)
+  3. [抓取輪廓](https://github.com/49831117/test-opencv/blob/main/test13.py)
   4. [人臉辨識](https://github.com/49831117/test-opencv/blob/main/test15.py)
  
